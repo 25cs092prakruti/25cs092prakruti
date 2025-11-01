@@ -1,6 +1,5 @@
 <!-- README.md (supports HTML and Markdown) -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Profession] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm prakruti</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
@@ -10,7 +9,7 @@
   <li>🔭 I’m currently working on <b>Arduino robotics and embedded systems projects</b></li>
   <li>🌱 I’m currently learning <b>PID controllers, sensor arrays, and hardware integration</b></li>
   <li>👯 I’m looking to collaborate on <b>line following robots and technical hackathons</b></li>
-  <li>📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+  <li>📫 How to reach me: <a href="mailto:your.25cs092@charusat.edu.in">your.25cs092@charusat.edu.in</a></li>
   <li>⚡ Fun fact: I love programming hardware challenges and building robots!</li>
 </ul>
 
