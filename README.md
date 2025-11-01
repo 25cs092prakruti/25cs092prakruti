@@ -1,5 +1,5 @@
-## Hi prakruti👋
-
+## Hi i am prakruti👋
+-- 
 <!--
 **25cs092prakruti/25cs092prakruti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
