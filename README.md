@@ -9,7 +9,7 @@
   <li>🔭 I’m currently working on <b>Arduino robotics and embedded systems projects</b></li>
   <li>🌱 I’m currently learning <b>PID controllers, sensor arrays, and hardware integration</b></li>
   <li>👯 I’m looking to collaborate on <b>line following robots and technical hackathons</b></li>
-  <li>📫 How to reach me: <a href="mailto:your.25cs092@charusat.edu.in">your.25cs092@charusat.edu.in</a></li>
+  <li>📫 How to reach me: <a href="mailto:25cs092@charusat.edu.in">25cs092@charusat.edu.in</a></li>
   <li>⚡ Fun fact: I love programming hardware challenges and building robots!</li>
 </ul>
 
